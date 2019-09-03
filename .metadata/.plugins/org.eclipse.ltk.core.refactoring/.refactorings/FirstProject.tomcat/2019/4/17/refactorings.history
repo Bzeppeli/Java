@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;FirstProject.tomcat/WEB-INF/pages/exibeCliente.jsp&apos; to &apos;cadastroCliente.jsp&apos;" description="Rename resource &apos;exibeCliente.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WEB-INF/pages/exibeCliente.jsp" name="cadastroCliente.jsp" stamp="1556023034387" updateReferences="true"/>
+</session>
